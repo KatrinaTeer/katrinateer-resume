@@ -1,0 +1,45 @@
+about:
+  name: Katrina Teer
+  tagline: Academic Advisor | AI for Business Graduate Student
+  phone: "+1 (360) 628-2856"
+  email: KatrinaTeer@arizona.edu
+  details: |
+    Higher education professional with three years of direct experience at the
+    University of Arizona supporting undergraduate and graduate academic programs.
+
+    Experienced in graduate program administration, academic advising, curriculum
+    and catalog management, enrollment planning, data reporting, and collaboration
+    with faculty and university offices. Currently pursuing a Master of Science
+    in AI for Business.
+
+skills:
+  - groupName: Higher Education
+    list:
+      - Academic Advising - Graduate Program Administration
+      - Curriculum & Catalog Management - Enrollment Planning
+      - Graduate Recruitment - Student Success
+
+  - groupName: Data & Technology
+    list:
+      - UAccess - UAccess Analytics
+      - Data Reporting - Compliance Tracking
+      - Microsoft Office - Google Workspace
+
+  - groupName: Professional Skills
+    list:
+      - Project & Process Management
+      - Program & Event Coordination
+      - Policy Interpretation & Communication
+      - Cross-Departmental Collaboration
+      - Stakeholder Engagement
+
+interests:
+  - Artificial Intelligence
+  - Responsible AI
+  - Cloud Computing
+  - Higher Education Technology
+  - Data Analytics
+
+languages:
+  - name: English
+    level: Fluent

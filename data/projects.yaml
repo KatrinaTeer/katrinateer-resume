@@ -1,0 +1,22 @@
+projects:
+- title: "Flight Delay Risk Prediction System"
+  subtitle: "Cloud Computing & Machine Learning Project"
+  date: "2026"
+  details: |
+    Designed a cloud-based decision support system to predict whether a scheduled
+    airline flight will depart 15 or more minutes late.
+    Developed a cloud architecture incorporating DigitalOcean Spaces, containerized
+    model inference, PostgreSQL, and an HTTPS API.
+    Used historical airline on-time performance data and logistic regression to
+    generate pre-departure delay risk predictions for airline operations personnel.
+
+- title: "Vendor Vulnerability Disclosure Prediction"
+  subtitle: "Data Mining & Machine Learning Project"
+  date: "2026"
+  details: |
+    Developed and compared machine learning models to predict whether software
+    vendors have a vulnerability disclosure program.
+    Evaluated logistic regression, Naive Bayes, decision tree, and k-nearest
+    neighbors models using classification performance metrics.
+    Performed data preprocessing, exploratory analysis, feature engineering,
+    model training, and evaluation in R.
